@@ -1,2 +1,2 @@
-# Prepocessing Pencemaran Udara
-# Naive Bayes Pencemaran Udara
+Prepocessing Pencemaran Udara
+Naive Bayes Pencemaran Udara
